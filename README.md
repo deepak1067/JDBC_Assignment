@@ -1,6 +1,6 @@
 # JDBC_Assignment
-Agenda
-Find the total amount to be paid at the time of checkout for a particular cart. As shown in above table. e.g. Query should return a single integer as total amount.
+#Agenda
+#Find the total amount to be paid at the time of checkout for a particular cart. As shown in above table. e.g. Query should return a single integer as total amount.
 Find the product name which as sold the most.
 Find all the products which are not yet sold.
 The example data shown should be changed in before being inserted into the table. e.g.
